@@ -1,7 +1,7 @@
 def new_hash
   new_hash = {
-    monkeys: "fun"
-    dogs: "bear"
+    :monkeys => "fun"
+    :dogs => "bear"
   }
   return new_hash
 end
